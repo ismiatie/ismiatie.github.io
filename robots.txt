@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ismiatie.github.io/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/app/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/assets/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/css/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/includes/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/item/sitemap.html.gz
+Sitemap: https://ismiatie.github.io/src/sitemap.html.gz
